@@ -2,14 +2,6 @@
 
 ![Title Banner](cropped_banner.png "Title Banner")
 
-## CV
-
-<div align="center">
-
-[Download CV](https://drive.google.com/file/d/1cuuItOoc4pOZfhb5xYnqCW9FVx3En2p7/view?usp=sharing)
-
-</div>
-
 ## About Me
 
 <p align="justify">
@@ -20,6 +12,14 @@ academic research in the field of Computer Vision. Currently, I am seeking an op
 leverage my Software Engineering expertise and recently acquired skills and knowledge in the
 field of Machine Learning to develop intelligent systems and software solutions
 </p>
+
+## CV
+
+<div align="center">
+
+[Download CV](https://drive.google.com/file/d/1cuuItOoc4pOZfhb5xYnqCW9FVx3En2p7/view?usp=sharing)
+
+</div>
 
 ## Skills
 
