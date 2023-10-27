@@ -13,14 +13,6 @@ leverage my Software Engineering expertise and recently acquired skills and know
 field of Machine Learning to develop intelligent systems and software solutions
 </p>
 
-## CV
-
-<div align="center">
-<p>
-[Download CV](https://drive.google.com/file/d/1cuuItOoc4pOZfhb5xYnqCW9FVx3En2p7/view?usp=sharing)
-</p>
-</div>
-
 ## Skills
 
 ### Languages & tools
