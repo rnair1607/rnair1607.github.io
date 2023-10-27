@@ -2,13 +2,11 @@
 
 ![Title Banner](cropped_banner.png "Title Banner")
 
-## Contact
+## CV
 
 <div align="center">
 
-![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
-![Discord Badge](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)
-![Download CV](https://img.shields.io/badge/Download%20CV-17181a?style=for-the-badge)
+[Download CV](https://drive.google.com/file/d/1cuuItOoc4pOZfhb5xYnqCW9FVx3En2p7/view?usp=sharing)
 
 </div>
 
